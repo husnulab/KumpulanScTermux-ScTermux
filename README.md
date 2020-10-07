@@ -1,2 +1,8 @@
-# B4J1N64Nv4
-Subscribe Channel ZEF12:)  Mr.Ogie feat Mr.Zahra We Are ZFFCYBER:)
+# ZEF12v2
+$pkg update && pkg upgrade
+$pkg install requests
+$pkg install mechanize
+$pkg install git
+$git clone https://github.com/husnulab/KumpulanScTermux-ScTermux
+$cd KumpulanScTermux-ScTermux
+$bash bajingan.sh
